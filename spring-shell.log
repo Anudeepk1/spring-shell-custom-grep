@@ -1,0 +1,20 @@
+1704717572283:add 2 5
+1704717633075:sum 3 3
+1704717636335:add 2 3
+1704718029282:sayHello
+1704718042921:sayHello Anudeep
+1704782699613:java /home/anudeep/Documents/word.txt /home/anudeep/Documents/output.txt
+1704782786675:help
+1704782834812:count-occurrences /home/anudeep/Documents/word.txt /home/anudeep/Documents/output.txt
+1704782845657:stacktrace
+1704783316122:help
+1704783325146:count-occurrences java
+1704783368098:help
+1704783377156:count-occurrences java
+1704783507739:help
+1704783519161:count-occurrences is
+1704783684768:help
+1704783691758:count-occurrences
+1704783702478:count-occurrences is
+1705485308222:search-files /home/anudeep/Documents java /home/anudeep/logfiles
+1705485634343:search-files /home/anudeep/Documents is /home/anudeep/logfiles
